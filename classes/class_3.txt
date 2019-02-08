@@ -1,0 +1,24 @@
+class: employees
+
+attributes / data types:
+name (string)
+trainedRoles (array)
+hireDate (datetime)
+wage (float)
+isWorking (boolean)
+
+
+
+
+methods:
+seatCustomer
+takeOrder
+makeDrinks
+cleanTables
+makeFood
+clean
+takeReservations
+deliverFood
+plateFood
+deliverCheck
+closeCheck
