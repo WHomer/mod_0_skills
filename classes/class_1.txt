@@ -1,0 +1,16 @@
+class: menus
+
+attributes / data types:
+menuName (string)
+items (hash)
+dateCreated (datetime)
+createdBy (string)
+menuType (string)
+active (boolean)
+
+
+methods:
+openMenu
+closeMenu
+displayItems
+displayName
