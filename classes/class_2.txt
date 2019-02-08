@@ -1,0 +1,21 @@
+class: customer
+
+attributes / data types:
+name (string)
+party (string)
+table (integer)
+inRestaurant (boolean)
+paidBill (boolean)
+orderedFood (boolean)
+orderedDrink (boolean)
+
+
+
+methods:
+orderFood
+orderDrinks
+pay
+tip
+reviewMenu
+eat
+drink
